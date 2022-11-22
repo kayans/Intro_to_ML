@@ -1,0 +1,6 @@
+output 0 0 1 1,
+if the predicted class labels are - 
+Test Instance 1: 0, 
+Test Instance 2: 0, 
+Test Instance 3: 1, 
+Test Instance 4: 1.
